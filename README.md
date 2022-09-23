@@ -50,7 +50,7 @@ The Dynamic Graph3 is available HERE
 2. Wikipedia claims that the main industry in the City of London is Financial services, and Mayfair is well known for arts and galleries.
 3. Indicating that with the same profession, the diversification of a company is less and the company would specialize in certain areas, presenting to the blue color in the Graph.
 
-**Design chose:**
+**Design chose:**  
 With the interactive plot, it is easy to see the fixed trend of industries staying at the specific area, combined with low SIC counts. We could see that London has a strong geographical distribution between different industries.
 
 
