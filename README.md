@@ -8,7 +8,7 @@ The data repository of Companies House provides [series of compressed folders](h
 ## 3. Results of Plots
 
 ### Graph1: Company Created During Pandamic
-![image](https://user-images.githubusercontent.com/61338647/192067014-62e0fa01-eff6-4adb-b400-1ae26c94cb40.png)
+<img width="1082" alt="Screenshot 2022-09-24 at 12 05 35 AM" src="https://user-images.githubusercontent.com/61338647/192067703-0a3fb770-ba9d-4022-b540-aecc82acbf62.png">
 
 **Main insight:**
 There are three waves of the impact of covid pandemic, which is 2020-03 to 2020-05, 2020- 10 to 2021-01, 2021-06 to 2021-10.
@@ -22,7 +22,7 @@ There are three waves of the impact of covid pandemic, which is 2020-03 to 2020-
 <img width="671" alt="Screenshot 2022-09-23 at 11 59 40 PM" src="https://user-images.githubusercontent.com/61338647/192067269-e180062d-d897-43cd-820f-80767f7fbefe.png">
 
 ### Graph2: Relationship of Mortgages outstanding and diversification
-![image](https://user-images.githubusercontent.com/61338647/192067324-cd2c870f-cea5-4008-a890-c4e5420e1914.png)
+<img width="1399" alt="Screenshot 2022-09-24 at 12 06 09 AM" src="https://user-images.githubusercontent.com/61338647/192067751-c7314220-78fb-410e-a94a-4a8017e7d68b.png">
 
 **Main insight:**
 We randomly extract 5% of the data during the covid impact periods to do the GLM model with Poisson family testing
@@ -49,6 +49,7 @@ The Dynamic Graph3 is available HERE
 1. There are two clusters in the graph of the region of Mayfair and the City of London. Separating per month, the clusters always stay in the same regions.
 2. Wikipedia claims that the main industry in the City of London is Financial services, and Mayfair is well known for arts and galleries.
 3. Indicating that with the same profession, the diversification of a company is less and the company would specialize in certain areas, presenting to the blue color in the Graph.
+
 **Design chose:**
 With the interactive plot, it is easy to see the fixed trend of industries staying at the specific area, combined with low SIC counts. We could see that London has a strong geographical distribution between different industries.
 
