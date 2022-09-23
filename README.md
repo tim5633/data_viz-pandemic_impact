@@ -41,7 +41,7 @@ covid cases.
 
 ### Graph3: Indusrties clusters in London
 <img width="1059" alt="Screenshot 2022-09-24 at 12 02 53 AM" src="https://user-images.githubusercontent.com/61338647/192067520-19114b0b-f588-43a9-9a26-6ffee9e91c32.png">
-The Dynamic Graph3 is available [HERE](https://github.com/tim5633/data_viz-pandemic_impact/blob/main/Data_viz_Graph3.html).
+The Dynamic Graph3 is available[HERE](https://github.com/tim5633/data_viz-pandemic_impact/blob/main/Data_viz_Graph3.html).
 
 **Main insight:**  
 1. There are two clusters in the graph of the region of Mayfair and the City of London. Separating per month, the clusters always stay in the same regions.
